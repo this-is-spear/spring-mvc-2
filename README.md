@@ -13,3 +13,7 @@
 ## CHAPTER 5
 
 [검증 - 2](CHAPTER5.md)
+
+## CHAPTER 6
+
+[로그인 처리 1 - 쿠키, 세션](CHAPTER6.md)
