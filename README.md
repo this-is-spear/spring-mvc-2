@@ -25,3 +25,7 @@
 ## CHAPTER 8
 
 [에외 처리와 오류 페이지](CHAPTER8.md)
+
+## CHAPTER 9
+
+[API 예외 처리](CHAPTER9.md)
